@@ -1,0 +1,27 @@
+.content-block-bg-img {
+  background-image: url("/src/assets/Images/content-bg.jpg");
+  background-size: cover;
+  height: 700px;
+}
+
+.content-block {
+  position: absolute;
+  top: 125px;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  left: 200px;
+  right: 200px;
+  padding: 0 40px 0 40px;
+  border-radius: 90px;
+  .content-title {
+    span {
+      font-size: 8rem;
+    }
+  }
+  img {
+    margin-left: 2rem;
+    filter: drop-shadow(50px 0px 40px black);
+  }
+}
