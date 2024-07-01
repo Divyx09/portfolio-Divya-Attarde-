@@ -7,7 +7,7 @@ const ContentBlock = () => {
       <div className='content-block-bg-img'></div>
       <div className='content-block'>
         <div className='content-title'>
-          <span>FullStack Developer</span>
+          <span>Frontend Developer</span>
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet fugit
             dolorum dignissimos! Ipsa possimus, animi ipsam consectetur fugit
